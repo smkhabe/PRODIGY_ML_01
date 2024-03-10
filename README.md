@@ -6,6 +6,9 @@ Implement a linear regression model to predict the prices of houses based on the
 Dataset : - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 
+DATA DESCRIPTION
+
+
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
